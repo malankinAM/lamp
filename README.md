@@ -8,4 +8,4 @@
  
 
 
-## Click ('https://malankinam.github.io/MouseAnime/')
+## Click ('https://malankinam.github.io/lamp/')
